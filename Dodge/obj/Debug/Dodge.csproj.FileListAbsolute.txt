@@ -1,0 +1,53 @@
+D:\drive\oktatás (1)\Informatika\Gépészeti informatika\Józsi\Zh_1\Dodge\Dodge\bin\Debug\Dodge.exe.config
+D:\drive\oktatás (1)\Informatika\Gépészeti informatika\Józsi\Zh_1\Dodge\Dodge\bin\Debug\Dodge.exe
+D:\drive\oktatás (1)\Informatika\Gépészeti informatika\Józsi\Zh_1\Dodge\Dodge\bin\Debug\Dodge.pdb
+D:\drive\oktatás (1)\Informatika\Gépészeti informatika\Józsi\Zh_1\Dodge\Dodge\obj\Debug\Dodge.csprojResolveAssemblyReference.cache
+D:\drive\oktatás (1)\Informatika\Gépészeti informatika\Józsi\Zh_1\Dodge\Dodge\obj\Debug\Dodge.Form1.resources
+D:\drive\oktatás (1)\Informatika\Gépészeti informatika\Józsi\Zh_1\Dodge\Dodge\obj\Debug\Dodge.Properties.Resources.resources
+D:\drive\oktatás (1)\Informatika\Gépészeti informatika\Józsi\Zh_1\Dodge\Dodge\obj\Debug\Dodge.csproj.GenerateResource.Cache
+D:\drive\oktatás (1)\Informatika\Gépészeti informatika\Józsi\Zh_1\Dodge\Dodge\obj\Debug\Dodge.exe
+D:\drive\oktatás (1)\Informatika\Gépészeti informatika\Józsi\Zh_1\Dodge\Dodge\obj\Debug\Dodge.pdb
+C:\Users\Leleke\Desktop\drive\oktatás\Informatika\Gépészeti informatika\Józsi\Zh_1\Dodge\Dodge\bin\Debug\Dodge.exe.config
+C:\Users\Leleke\Desktop\drive\oktatás\Informatika\Gépészeti informatika\Józsi\Zh_1\Dodge\Dodge\bin\Debug\Dodge.exe
+C:\Users\Leleke\Desktop\drive\oktatás\Informatika\Gépészeti informatika\Józsi\Zh_1\Dodge\Dodge\bin\Debug\Dodge.pdb
+C:\Users\Leleke\Desktop\drive\oktatás\Informatika\Gépészeti informatika\Józsi\Zh_1\Dodge\Dodge\obj\Debug\Dodge.csprojAssemblyReference.cache
+C:\Users\Leleke\Desktop\drive\oktatás\Informatika\Gépészeti informatika\Józsi\Zh_1\Dodge\Dodge\obj\Debug\Dodge.Form1.resources
+C:\Users\Leleke\Desktop\drive\oktatás\Informatika\Gépészeti informatika\Józsi\Zh_1\Dodge\Dodge\obj\Debug\Dodge.Properties.Resources.resources
+C:\Users\Leleke\Desktop\drive\oktatás\Informatika\Gépészeti informatika\Józsi\Zh_1\Dodge\Dodge\obj\Debug\Dodge.csproj.GenerateResource.cache
+C:\Users\Leleke\Desktop\drive\oktatás\Informatika\Gépészeti informatika\Józsi\Zh_1\Dodge\Dodge\obj\Debug\Dodge.csproj.CoreCompileInputs.cache
+C:\Users\Leleke\Desktop\drive\oktatás\Informatika\Gépészeti informatika\Józsi\Zh_1\Dodge\Dodge\obj\Debug\Dodge.exe
+C:\Users\Leleke\Desktop\drive\oktatás\Informatika\Gépészeti informatika\Józsi\Zh_1\Dodge\Dodge\obj\Debug\Dodge.pdb
+C:\Users\Leleke\Desktop\drive\oktatás\Informatika\Gépészeti informatika\Józsi\Adatok kiadásra\grafika,animacio\Dodge\Dodge\bin\Debug\Dodge.exe.config
+C:\Users\Leleke\Desktop\drive\oktatás\Informatika\Gépészeti informatika\Józsi\Adatok kiadásra\grafika,animacio\Dodge\Dodge\bin\Debug\Dodge.exe
+C:\Users\Leleke\Desktop\drive\oktatás\Informatika\Gépészeti informatika\Józsi\Adatok kiadásra\grafika,animacio\Dodge\Dodge\bin\Debug\Dodge.pdb
+C:\Users\Leleke\Desktop\drive\oktatás\Informatika\Gépészeti informatika\Józsi\Adatok kiadásra\grafika,animacio\Dodge\Dodge\obj\Debug\Dodge.csprojAssemblyReference.cache
+C:\Users\Leleke\Desktop\drive\oktatás\Informatika\Gépészeti informatika\Józsi\Adatok kiadásra\grafika,animacio\Dodge\Dodge\obj\Debug\Dodge.Form1.resources
+C:\Users\Leleke\Desktop\drive\oktatás\Informatika\Gépészeti informatika\Józsi\Adatok kiadásra\grafika,animacio\Dodge\Dodge\obj\Debug\Dodge.Properties.Resources.resources
+C:\Users\Leleke\Desktop\drive\oktatás\Informatika\Gépészeti informatika\Józsi\Adatok kiadásra\grafika,animacio\Dodge\Dodge\obj\Debug\Dodge.csproj.GenerateResource.cache
+C:\Users\Leleke\Desktop\drive\oktatás\Informatika\Gépészeti informatika\Józsi\Adatok kiadásra\grafika,animacio\Dodge\Dodge\obj\Debug\Dodge.csproj.CoreCompileInputs.cache
+C:\Users\Leleke\Desktop\drive\oktatás\Informatika\Gépészeti informatika\Józsi\Adatok kiadásra\grafika,animacio\Dodge\Dodge\obj\Debug\Dodge.exe
+C:\Users\Leleke\Desktop\drive\oktatás\Informatika\Gépészeti informatika\Józsi\Adatok kiadásra\grafika,animacio\Dodge\Dodge\obj\Debug\Dodge.pdb
+D:\drive\oktatás (1)\Informatika\Gépészeti informatika\Józsi\Adatok kiadásra\grafika,animacio\Dodge\Dodge\bin\Debug\Dodge.exe.config
+D:\drive\oktatás (1)\Informatika\Gépészeti informatika\Józsi\Adatok kiadásra\grafika,animacio\Dodge\Dodge\obj\Debug\Dodge.exe
+D:\drive\oktatás (1)\Informatika\Gépészeti informatika\Józsi\Adatok kiadásra\grafika,animacio\Dodge\Dodge\obj\Debug\Dodge.pdb
+C:\Users\Leleke\Desktop\drive\BME\MOGI\oktatás\archiv\Informatika\Gépészeti informatika\2018_19_II_es_elott\Józsi\Adatok kiadásra\grafika,animacio\Dodge\Dodge\bin\Debug\Dodge.exe.config
+C:\Users\Leleke\Desktop\drive\BME\MOGI\oktatás\archiv\Informatika\Gépészeti informatika\2018_19_II_es_elott\Józsi\Adatok kiadásra\grafika,animacio\Dodge\Dodge\bin\Debug\Dodge.exe
+C:\Users\Leleke\Desktop\drive\BME\MOGI\oktatás\archiv\Informatika\Gépészeti informatika\2018_19_II_es_elott\Józsi\Adatok kiadásra\grafika,animacio\Dodge\Dodge\bin\Debug\Dodge.pdb
+C:\Users\Leleke\Desktop\drive\BME\MOGI\oktatás\archiv\Informatika\Gépészeti informatika\2018_19_II_es_elott\Józsi\Adatok kiadásra\grafika,animacio\Dodge\Dodge\obj\Debug\Dodge.csprojAssemblyReference.cache
+C:\Users\Leleke\Desktop\drive\BME\MOGI\oktatás\archiv\Informatika\Gépészeti informatika\2018_19_II_es_elott\Józsi\Adatok kiadásra\grafika,animacio\Dodge\Dodge\obj\Debug\Dodge.Form1.resources
+C:\Users\Leleke\Desktop\drive\BME\MOGI\oktatás\archiv\Informatika\Gépészeti informatika\2018_19_II_es_elott\Józsi\Adatok kiadásra\grafika,animacio\Dodge\Dodge\obj\Debug\Dodge.Properties.Resources.resources
+C:\Users\Leleke\Desktop\drive\BME\MOGI\oktatás\archiv\Informatika\Gépészeti informatika\2018_19_II_es_elott\Józsi\Adatok kiadásra\grafika,animacio\Dodge\Dodge\obj\Debug\Dodge.csproj.GenerateResource.cache
+C:\Users\Leleke\Desktop\drive\BME\MOGI\oktatás\archiv\Informatika\Gépészeti informatika\2018_19_II_es_elott\Józsi\Adatok kiadásra\grafika,animacio\Dodge\Dodge\obj\Debug\Dodge.csproj.CoreCompileInputs.cache
+C:\Users\Leleke\Desktop\drive\BME\MOGI\oktatás\archiv\Informatika\Gépészeti informatika\2018_19_II_es_elott\Józsi\Adatok kiadásra\grafika,animacio\Dodge\Dodge\obj\Debug\Dodge.exe
+C:\Users\Leleke\Desktop\drive\BME\MOGI\oktatás\archiv\Informatika\Gépészeti informatika\2018_19_II_es_elott\Józsi\Adatok kiadásra\grafika,animacio\Dodge\Dodge\obj\Debug\Dodge.pdb
+D:\Desktop\PROG\CODE\Csharp\orai\Dodge\Dodge\bin\Debug\Dodge.exe.config
+D:\Desktop\PROG\CODE\Csharp\orai\Dodge\Dodge\bin\Debug\Dodge.exe
+D:\Desktop\PROG\CODE\Csharp\orai\Dodge\Dodge\bin\Debug\Dodge.pdb
+D:\Desktop\PROG\CODE\Csharp\orai\Dodge\Dodge\obj\Debug\Dodge.csproj.AssemblyReference.cache
+D:\Desktop\PROG\CODE\Csharp\orai\Dodge\Dodge\obj\Debug\Dodge.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\PROG\CODE\Csharp\orai\Dodge\Dodge\obj\Debug\Dodge.Form1.resources
+D:\Desktop\PROG\CODE\Csharp\orai\Dodge\Dodge\obj\Debug\Dodge.Properties.Resources.resources
+D:\Desktop\PROG\CODE\Csharp\orai\Dodge\Dodge\obj\Debug\Dodge.csproj.GenerateResource.cache
+D:\Desktop\PROG\CODE\Csharp\orai\Dodge\Dodge\obj\Debug\Dodge.csproj.CoreCompileInputs.cache
+D:\Desktop\PROG\CODE\Csharp\orai\Dodge\Dodge\obj\Debug\Dodge.exe
+D:\Desktop\PROG\CODE\Csharp\orai\Dodge\Dodge\obj\Debug\Dodge.pdb
